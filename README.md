@@ -1,3 +1,3 @@
 # Nwitter
 
-## twitter clone coding with React JS & Firebase
+  twitter clone coding with React JS & Firebase
