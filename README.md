@@ -1,3 +1,6 @@
 # Nwitter
 
-  twitter cloning with React JS & Firebase
+>https://babyazalea.github.io/nwitter
+
+twitter cloning with React JS & Firebase
+
